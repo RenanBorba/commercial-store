@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "react": "16.6.3",
-    "react-native": "0.58.4",
+    "react-native": "0.71.3",
     "react-navigation": "^2.18.3"
   },
   "devDependencies": {
