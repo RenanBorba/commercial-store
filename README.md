@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação desenvolvida para portfólio de Lojas de cursos e empresas de diversos segmentos, permitindo a visualização de itens (WebView) diretamente do site da empresa via renderização dentro do aplicativo.
+Aplicação desenvolvida para portfólio de Lojas de cursos on-line e empresas de diversos segmentos, permitindo a visualização de itens (WebView) diretamente do site da empresa via renderização dentro do aplicativo.
 
 <br><br>
 
