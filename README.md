@@ -10,6 +10,10 @@
 
 [![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/commercial-store.svg)](https://github.com/RenanBorba/commercial-store) [![Build Status](https://img.shields.io/github/forks/RenanBorba/commercial-store.svg)](https://github.com/RenanBorba/commercial-store) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+<br>
+
+![home](https://github.com/RenanBorba/web-secondary/assets/48495838/4609f99a-c406-43c3-a221-82ba65a3b93e)
+
 </div>
 
 <br>
